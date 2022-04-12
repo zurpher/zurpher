@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zurpher
-- 👀 I’m interested in leaarning more aboutgitHub
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in leaarning more about GitHub
+- 🌱 I’m currently trying out my first course on this
+- 💞️ I’m looking to learn how to build a repo and help my understanding on it
 - 📫 How to reach me ...
 
 <!---
